@@ -1,0 +1,2 @@
+# Explainable-and-Fair-AI-Based-Hospital-Readmission-Prediction-with-Counterfactual-Recommendations
+An Explainable and Fair AI-Based Hospital Readmission Prediction system that predicts patient readmission risk using machine learning. It integrates explainable AI, fairness evaluation, and counterfactual recommendations to provide transparent predictions, reduce bias, and support personalized interventions for better patient outcomes 
